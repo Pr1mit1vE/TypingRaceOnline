@@ -1,0 +1,6 @@
+﻿  ServerLR4.cpp
+C:\Users\artyo\source\repos\ServerLR4\ServerLR4\ServerLR4.cpp(88,35): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\artyo\source\repos\ServerLR4\ServerLR4\ServerLR4.cpp(102,35): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\artyo\source\repos\ServerLR4\ServerLR4\ServerLR4.cpp(226,34): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\artyo\source\repos\ServerLR4\ServerLR4\ServerLR4.cpp(267,31): warning C4018: <: несоответствие типов со знаком и без знака
+  ServerLR4.vcxproj -> C:\Users\artyo\source\repos\ServerLR4\Debug\ServerLR4.exe
